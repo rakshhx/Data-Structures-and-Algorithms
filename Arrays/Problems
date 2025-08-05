@@ -1,0 +1,36 @@
+Arrays
+
+13.	Find the maximum and minimum element in array(After solving the search , you can solve all probs in this basics by yourself)
+14.	Find third largest element in array
+15.	Search an element in array(Understand how to traverse through the array and how to access the elements)
+16.	Find missing number in array
+17.	Sort an array of 0s , 1s and 2s (You dont need to know any sorting algo, just using basics, once solved, definitely learn the optimal algo)
+18.	Check if two arrays are equal or not
+19.	Rotate the array by 1
+20.	Rotate the array by k
+21.	Array subset of another array
+22.	Count frequency of elements in array
+
+Two pointer
+
+23.	Find pair with given sum
+24.	3 Sum
+25.	4 Sum
+26.	Find triplets with zero sum
+27.	Find count of triplets
+28.	Union of two arrays
+29.	Intersection of two arrays
+30.	Remove duplicates from array
+31.	kth element of 2 sorted arrays
+32.	Length of longest subarray with sum k
+33.	Trapping rain water
+
+Must Solve	
+
+34.	Majority element
+35.	Kadane's algo(super imp)
+36.	Count inversions
+37.	Merge intervals
+38.	Maximum product subarray
+39.	Next permutation
+40.	Seive of eranthoses(Popular algo for prime numbers)
