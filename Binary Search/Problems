@@ -1,0 +1,42 @@
+Basic pattern	
+
+54.	Search in a sorted array(Efficiently -> So learn binary search for this)
+55.	Find floor and ceil in sorted array
+56.	Find first and last occurence of element in sorted array
+57.	Find missing num from 1 to N
+58.	Find square root
+59.	Search for element in infinite array
+
+Sorted rotated array	
+
+60.	Search element in sorted rotated array(With and without duplicate)
+61.	Minimum element in sorted rotated array(With and without duplicate)
+63.	Number of times array is sorted
+64.	Maximum element in sorted rotated array
+
+Biotonic array	
+
+65.	Find the peak element
+66.	Search element in biotonic array
+
+Matrix	
+
+67.	Find row with maximum number of 1's
+68.	Search in row wise column wise sorted matrix
+69.	Search in sorted matrix II
+70.	Find peak in sorted matrix
+
+Application(Super imp)	
+
+71.	Aggressive cows
+72.	Allocate minimum pages
+73.	Painter partition
+74.	Split array largest sum
+75.	Minimum num of days to make m bouquets
+76.	Capacity to ship packages within D days
+77.	koko eating bananas
+78.	kth smallest number in matrix multiplication table
+79.	kth smallest pair distance
+80.	Ugly number II
+81.	Median of 2 sorted arrays
+82.	Find smallest divisor given threshold
