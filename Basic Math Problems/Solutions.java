@@ -118,7 +118,7 @@ class Solution {
     }
 }
 
-//10. Palindroms
+//10. Palindromes
 
 class Solution {
     public boolean isPalindrome(int n) {
